@@ -11,6 +11,8 @@ I actually created this because I couldn't solve certain levels 😭, so it does
 $ cat example.txt | cargo run --release > result.txt
 ```
 
+Please note that each character in the input text represents a block with half the height.
+
 ## Copyright
 
 Copyright (c) 2023 carrotflakes (carrotflakes@gmail.com)
