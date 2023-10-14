@@ -3,7 +3,10 @@ pub mod solver;
 
 pub fn solve_and_print(str: &str) {
     let (field, mut jellies) = game::game_from_str(str.trim());
-    if let Some(result) = solver::search(&field, jellies.clone()) {
+    let t = std::time::Instant::now();
+    let result = solver::search(&field, jellies.clone());
+    println!("Time: {:?}", t.elapsed());
+    if let Some(result) = result {
         println!("Found solution:");
         field.draw_with_jellies(&jellies);
         println!("Moves:");

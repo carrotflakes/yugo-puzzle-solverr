@@ -21,6 +21,7 @@ pub fn search(field: &Field, mut jellies: Vec<Jelly>) -> Option<Vec<([i8; 2], bo
                 let mut new_jellies = jellies.clone();
                 let jelly_index = all_blobs[i][0];
                 if move_jelly(field, &mut new_jellies, jelly_index, to_right) {
+                    new_jellies.sort();
                     if !closed.contains(&new_jellies) {
                         let mut new_path = path.clone();
                         new_path.push((jelly_index as u8, to_right));
