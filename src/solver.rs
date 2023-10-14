@@ -46,6 +46,7 @@ fn reconstruct_path(
 ) -> Vec<([i8; 2], bool)> {
     let mut ret = Vec::new();
     for (jelly_index, to_right) in path {
+        jellies.sort();
         let jelly = jellies[jelly_index as usize];
         ret.push(([jelly.x, jelly.y], to_right));
         move_jelly(field, &mut jellies, jelly_index as usize, to_right);
