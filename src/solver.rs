@@ -1,14 +1,16 @@
+use std::collections::HashSet;
+
 use crate::game::*;
 
 pub fn search(field: &Field, mut jellies: Vec<Jelly>) -> Option<Vec<([i8; 2], bool)>> {
     let colors_num = all_colors(&jellies).len();
     jellies.sort();
-    let mut closed: Vec<Vec<Jelly>> = Vec::new();
+    let mut closed = HashSet::new();
     let mut open = vec![(jellies.clone(), Vec::new())];
     let initial_jellies = jellies.clone();
 
     while let Some((jellies, path)) = open.pop() {
-        closed.push(jellies.clone());
+        closed.insert(jellies.clone());
 
         let all_blobs = all_blobs(&jellies);
 

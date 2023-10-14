@@ -316,7 +316,7 @@ impl Field {
     }
 }
 
-#[derive(Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord)]
+#[derive(Clone, Copy, Debug, PartialEq, Eq, PartialOrd, Ord, Hash)]
 pub struct Jelly {
     pub x: i8,
     pub y: i8,
