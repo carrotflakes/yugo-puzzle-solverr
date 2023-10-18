@@ -9,7 +9,7 @@ pub fn solve_and_print(str: &str) {
     if let Some(result) = result {
         println!("Found solution:");
         field.draw_with_jellies(&jellies);
-        println!("Moves:");
+        println!("Moves ({}):", result.len());
         for (pos, to_right) in result {
             println!("({}, {})", pos[0], pos[1]);
             let jelly_index = jellies
