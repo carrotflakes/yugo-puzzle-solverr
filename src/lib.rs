@@ -4,7 +4,7 @@ pub mod solver;
 pub fn solve_and_print(str: &str) {
     let (field, mut jellies) = game::game_from_str(str.trim());
     let t = std::time::Instant::now();
-    let result = solver::search(&field, jellies.clone());
+    let result = solver::search_shortest(&field, jellies.clone());
     println!("Time: {:?}", t.elapsed());
     if let Some(result) = result {
         println!("Found solution:");
