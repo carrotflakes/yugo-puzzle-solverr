@@ -76,7 +76,7 @@ pub fn move_jelly(
                         && blob_moves[k].0
                         && get_jelly_by_position(jellies, [jellies[*j].x + dx, jellies[*j].y])
                             .map(|j| !all_blobs[k].contains(&j))
-                            .unwrap_or(false)
+                            .unwrap_or(true)
                     {
                         continue;
                     }
@@ -102,6 +102,56 @@ pub fn move_jelly(
                 jellies[*j].y = jellies[*j].y - 1;
             }
         }
+        if *slide {
+            for j in &all_blobs[i] {
+                jellies[*j].x = jellies[*j].x + dx;
+            }
+        }
+    }
+
+    let mut blob_moves: Vec<_> = blob_moves.iter().map(|(_, s)| *s).collect();
+
+    // Check if the jelly can move
+    'outer: while {
+        let mut updated = false;
+
+        for i in 0..all_blobs.len() {
+            if !blob_moves[i] {
+                continue;
+            }
+            for j in &all_blobs[i] {
+                if field.is_wall(jellies[*j].x + dx, jellies[*j].y) {
+                    // Cannot move by wall
+                    for i in 0..all_blobs.len() {
+                        if blob_moves[i] {
+                            blob_moves[i] = false;
+                        }
+                    }
+                    break 'outer;
+                }
+
+                if let Some(l) = get_jelly_by_position(jellies, [jellies[*j].x + dx, jellies[*j].y])
+                {
+                    let k = all_blobs.iter().position(|b| b.contains(&l)).unwrap();
+                    if get_jelly_by_position(jellies, [jellies[*j].x + dx, jellies[*j].y])
+                        .map(|j| !all_blobs[k].contains(&j))
+                        .unwrap_or(false)
+                    {
+                        continue;
+                    }
+                    if !blob_moves[k] {
+                        blob_moves[k] = true;
+                        updated = true;
+                    }
+                }
+            }
+        }
+
+        updated
+    } {}
+
+    // Move the jellies
+    for (i, slide) in blob_moves.iter().enumerate() {
         if *slide {
             for j in &all_blobs[i] {
                 jellies[*j].x = jellies[*j].x + dx;
