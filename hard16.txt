@@ -1,0 +1,17 @@
+16
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        00            X
+X    11  00      11 11XX
+X    11  XX      11 11XX
+XXXXXXXXXXXXXXXXXXXXXXXX

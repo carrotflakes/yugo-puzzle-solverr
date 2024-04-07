@@ -1,0 +1,13 @@
+12
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                    11      X
+X                    11      X
+X                    XXXX    X
+X                    XXXX    X
+X                            X
+X                            X
+X  0022      22          00  X
+X  0022      22          00  X
+XXXXXXXXX11  XXXX  XXXXXXXXXXX
+XXXXXXXXX11  XXXX  XXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

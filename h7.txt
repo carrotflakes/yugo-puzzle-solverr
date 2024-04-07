@@ -1,0 +1,20 @@
+20
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXX                      XXXXX
+X00                      XX11X
+X00                      XX11X
+XXX                        11X
+XXX                        11X
+X00                      XXXXX
+X00                      XXXXX
+XXX      11  11          00XXX
+XXX      111111          00XXX
+X        111111          XXXXX
+X00      111111          XXXXX
+XXX      111111          XXXXX
+XXX    1111111111        XXXXX
+XXX      111111          XXXXX
+XXX      111111          XXXXX
+XXX      111111          XXXXX
+XXX      11  11          XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

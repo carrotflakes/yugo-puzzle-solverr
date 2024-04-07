@@ -1,0 +1,591 @@
+Time: 19.084820822s
+Found solution:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11  11  11  11    X
+XXXXXXXX    00  11  11  11  11    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                        XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Moves (30):
+(28, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11  11  11        X
+XXXXXXXX    00  11  11  11        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      11  X
+XXXXXXXX                      11XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11    1111        X
+XXXXXXXX    00  11    1111        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      11  X
+XXXXXXXX                      11XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11      1111      X
+XXXXXXXX    00  11      1111      X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      11  X
+XXXXXXXX                      11XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(24, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11        1111    X
+XXXXXXXX    00  11        1111    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      11  X
+XXXXXXXX                      11XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(26, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11          1111  X
+XXXXXXXX    00  11          1111  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      11  X
+XXXXXXXX                      11XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(30, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    00  11          1111  X
+XXXXXXXX    00  11          1111  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(12, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX      0011          1111  X
+XXXXXXXX      0011          1111  X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(28, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX      0011                X
+XXXXXXXX      0011                X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(14, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX        0011              X
+XXXXXXXX        0011              X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX          0011            X
+XXXXXXXX          0011            X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX            0011          X
+XXXXXXXX            0011          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX              0011        X
+XXXXXXXX              0011        X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                0011      X
+XXXXXXXX                0011      X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(24, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                  0011    X
+XXXXXXXX                  0011    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                      11XXXXX
+XX1111                      11XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(28, 13)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                  0011    X
+XXXXXXXX                  0011    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                    11  XXXXX
+XX1111                    11  XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(26, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                    00    X
+XXXXXXXX                    00    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                      11  X
+XXXXXXXX                      11  X
+XXXXXXXX                      1111X
+XXXXXXXX                      1111X
+XXXXXXXX                        XXX
+XX1111                    11  XXXXX
+XX1111                    11  XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(30, 8)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                    00    X
+XXXXXXXX                    00    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                    11    X
+XXXXXXXX                    11    X
+XXXXXXXX                    1111  X
+XXXXXXXX                    1111XXX
+XX1111                    11  XXXXX
+XX1111                    11  XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(26, 13)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                    00    X
+XXXXXXXX                    00    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                    11    X
+XXXXXXXX                    11    X
+XXXXXXXX                    1111  X
+XXXXXXXX                    1111XXX
+XX1111                  11    XXXXX
+XX1111                  11    XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(28, 3)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                    1100  X
+XXXXXXXX                    1100  X
+XXXXXXXX                    1111  X
+XXXXXXXX                    1111XXX
+XX1111                  11    XXXXX
+XX1111                  11    XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(30, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                  1100    X
+XXXXXXXX                  1100  XXX
+XX1111                  111111XXXXX
+XX1111                  111111XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(28, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                1100      X
+XXXXXXXX                1100    XXX
+XX1111                111111  XXXXX
+XX1111                111111  XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(26, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX              1100        X
+XXXXXXXX              1100      XXX
+XX1111              111111    XXXXX
+XX1111              111111    XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(24, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX            1100          X
+XXXXXXXX            1100        XXX
+XX1111            111111      XXXXX
+XX1111            111111      XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX          1100            X
+XXXXXXXX          1100          XXX
+XX1111          111111        XXXXX
+XX1111          111111        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX        1100              X
+XXXXXXXX        1100            XXX
+XX1111        111111          XXXXX
+XX1111        111111          XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX      1100                X
+XXXXXXXX      1100              XXX
+XX1111      111111            XXXXX
+XX1111      111111            XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    1100                  X
+XXXXXXXX    1100                XXX
+XX1111    111111              XXXXX
+XX1111    111111              XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(14, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX  1100                    X
+XXXXXXXX  1100                  XXX
+XX1111  111111                XXXXX
+XX1111  111111                XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(12, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX1100                      X
+XXXXXXXX1100                    XXX
+XX1111111111                  XXXXX
+XX1111111111                  XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(10, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX11                        X
+XXXXXXXX11                      XXX
+XX111111111100                XXXXX
+XX111111111100                XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

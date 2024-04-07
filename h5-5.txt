@@ -1,0 +1,19 @@
+18
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX    11  11  11  11  11    X
+XXXXXXXX    11  11  11  11  11    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                          X
+XXXXXXXX                        XXX
+XX1111                        XXXXX
+XX1111                        XXXXX
+XX1111000000000000000000000000XXXXX
+XX1111000000000000000000000000XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

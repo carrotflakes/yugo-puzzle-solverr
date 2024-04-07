@@ -1,0 +1,3878 @@
+Time: 1.021477887s
+Found solution:
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Moves (227):
+(23, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(1, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                            X
+X  00                            X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                            X
+X  00                            X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(23, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                            X
+X  00                            X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(24, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                            X
+X  00                            X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(3, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 11)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00  00  XX  X
+X        00  00  00  00  00X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXX            X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(25, 1)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00      XX  X
+X        00  00  00  00    X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX        00  X     X
+XXXXX    XXXXXX        00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(23, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00      XX  X
+X        00  00  00  00    X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX      00    X     X
+XXXXX    XXXXXX      00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00      XX  X
+X        00  00  00  00    X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00      XX  X
+X        00  00  00  00    X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                              X
+X00                              X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(1, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00      XX  X
+X        00  00  00  00    X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                            X
+X  00                            X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00  00      XX  X
+X        00  00  00  00    X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                            X
+X  00                            X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 1)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00              00            X
+X  00              00            X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                00          X
+X  00                00          X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX        00  X     X
+XXXXX    XXXXXX        00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00               00           X
+X  00               00           X
+XXXXX    XXXXXX      00    X     X
+XXXXX    XXXXXX      00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(3, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                 00           X
+X00                 00           X
+XXXXX    XXXXXX      00    X     X
+XXXXX    XXXXXX      00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                00            X
+X00                00            X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXX     00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                  00          X
+X00                  00          X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXX       00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00  00          XX  X
+X        00  00  00        X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX        00  X     X
+XXXXX    XXXXXX        00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 1)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                   00         X
+X00                   00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                 00           X
+X00                 00           X
+XXXXX    XXXXXX 00   00    X     X
+XXXXX    XXXXXX 00   00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                 00           X
+X00                 00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                 00           X
+X00                 00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                  00          X
+X00                  00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                  00          X
+X00                  00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                  00          X
+X00                  00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                00            X
+X00                00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00                00            X
+X00                00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(1, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00              00            X
+X  00              00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00              00            X
+X  00              00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                00          X
+X  00                00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                00          X
+X  00                00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                00          X
+X  00                00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00  00              XX  X
+X        00  00            X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00                 00         X
+X  00                 00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(13, 1)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00         00         X
+X  00      00         00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00         00         X
+X  00      00         00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00         00         X
+X  00      00         00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00       00           X
+X  00      00       00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00       00           X
+X  00      00       00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00        00          X
+X  00      00        00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00        00          X
+X  00      00        00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00        00          X
+X  00      00        00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00      00            X
+X  00      00      00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      00      00            X
+X  00      00      00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(11, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00        00            X
+X  00    00        00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00        00            X
+X  00    00        00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00          00          X
+X  00    00          00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00          00          X
+X  00    00          00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00          00          X
+X  00    00          00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00           00         X
+X  00    00           00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00           00         X
+X  00    00           00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00           00         X
+X  00    00           00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00           00         X
+X  00    00           00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00           00         X
+X  00    00           00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    00           00         X
+X  00    00           00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(3, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00           00         X
+X00      00           00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00           00         X
+X00      00           00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00           00         X
+X00      00           00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00         00           X
+X00      00         00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00         00           X
+X00      00         00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00          00          X
+X00      00          00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00          00          X
+X00      00          00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00          00          X
+X00      00          00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00        00            X
+X00      00        00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      00        00            X
+X00      00        00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(9, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00      00            X
+X00        00      00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00      00            X
+X00        00      00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00        00          X
+X00        00        00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00        00          X
+X00        00        00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00        00          X
+X00        00        00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00         00         X
+X00        00         00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00         00         X
+X00        00         00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00         00         X
+X00        00         00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00         00         X
+X00        00         00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00         00         X
+X00        00         00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        00         00         X
+X00        00         00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(11, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00       00         X
+X00          00       00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00       00         X
+X00          00       00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00       00         X
+X00          00       00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00     00           X
+X00          00     00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00     00           X
+X00          00     00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00      00          X
+X00          00      00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00      00          X
+X00          00      00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00      00          X
+X00          00      00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00    00            X
+X00          00    00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          00    00            X
+X00          00    00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(1, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00    00            X
+X  00        00    00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00    00            X
+X  00        00    00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00      00          X
+X  00        00      00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00      00          X
+X  00        00      00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00      00          X
+X  00        00      00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00       00         X
+X  00        00       00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00       00         X
+X  00        00       00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00       00         X
+X  00        00       00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00       00         X
+X  00        00       00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00       00         X
+X  00        00       00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X        00                  XX  X
+X        00                X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        00       00         X
+X  00        00       00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(9, 1)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000       00         X
+X  00      0000       00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000       00         X
+X  00      0000       00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000       00         X
+X  00      0000       00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000     00           X
+X  00      0000     00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000     00           X
+X  00      0000     00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000      00          X
+X  00      0000      00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000      00          X
+X  00      0000      00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000      00          X
+X  00      0000      00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000    00            X
+X  00      0000    00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00      0000    00            X
+X  00      0000    00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(11, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000      00            X
+X  00    0000      00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000      00            X
+X  00    0000      00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000        00          X
+X  00    0000        00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000        00          X
+X  00    0000        00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000        00          X
+X  00    0000        00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000         00         X
+X  00    0000         00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000         00         X
+X  00    0000         00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000         00         X
+X  00    0000         00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000         00         X
+X  00    0000         00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000         00         X
+X  00    0000         00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00    0000         00         X
+X  00    0000         00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(9, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000           00         X
+X  00  0000           00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000           00         X
+X  00  0000           00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000           00         X
+X  00  0000           00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000         00           X
+X  00  0000         00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000         00           X
+X  00  0000         00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000          00          X
+X  00  0000          00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000          00          X
+X  00  0000          00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000          00          X
+X  00  0000          00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000        00            X
+X  00  0000        00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00  0000        00            X
+X  00  0000        00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(3, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000        00            X
+X00    0000        00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000        00            X
+X00    0000        00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000          00          X
+X00    0000          00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000          00          X
+X00    0000          00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000          00          X
+X00    0000          00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000           00         X
+X00    0000           00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000           00         X
+X00    0000           00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000           00         X
+X00    0000           00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000           00         X
+X00    0000           00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000           00         X
+X00    0000           00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00    0000           00         X
+X00    0000           00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(7, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000         00         X
+X00      0000         00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000         00         X
+X00      0000         00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000         00         X
+X00      0000         00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000       00           X
+X00      0000       00           X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXX00    00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000       00           X
+X00      0000       00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000        00          X
+X00      0000        00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000        00          X
+X00      0000        00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000        00          X
+X00      0000        00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000      00            X
+X00      0000      00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00      0000      00            X
+X00      0000      00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(9, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000    00            X
+X00        0000    00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000    00            X
+X00        0000    00            X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXX00   00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000      00          X
+X00        0000      00          X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXX00     00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000      00          X
+X00        0000      00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000      00          X
+X00        0000      00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000       00         X
+X00        0000       00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000       00         X
+X00        0000       00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000       00         X
+X00        0000       00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000       00         X
+X00        0000       00         X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXX00      00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(15, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000       00         X
+X00        0000       00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00        0000       00         X
+X00        0000       00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(11, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          0000     00         X
+X00          0000     00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          0000     00         X
+X00          0000     00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          0000   00           X
+X00          0000   00           X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXX  00  00    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          0000    00          X
+X00          0000    00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          0000    00          X
+X00          0000    00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X00          0000  00            X
+X00          0000  00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(1, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000  00            X
+X  00        0000  00            X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXX  00 00     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000    00          X
+X  00        0000    00          X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXX    00 00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000    00          X
+X  00        0000    00          X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXX  00   00   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000     00         X
+X  00        0000     00         X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXX  00    00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(17, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000     00         X
+X  00        0000     00         X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXX    00  00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000     00         X
+X  00        0000     00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00        0000     00         X
+X  00        0000     00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000      00         X
+X  00       0000      00         X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXX 00     00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(16, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000      00         X
+X  00       0000      00         X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXX   00   00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(18, 9)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000      00         X
+X  00       0000      00         X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXX     00 00  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000    00           X
+X  00       0000    00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000   00            X
+X  00       0000   00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000     00          X
+X  00       0000     00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00       0000      00         X
+X  00       0000      00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(12, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00     0000        00         X
+X  00     0000        00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00     0000      00           X
+X  00     0000      00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00     0000     00            X
+X  00     0000     00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00     0000       00          X
+X  00     0000       00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(10, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00   0000         00          X
+X  00   0000         00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00   0000       00            X
+X  00   0000       00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(8, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00 0000         00            X
+X  00 0000         00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00 0000           00          X
+X  00 0000           00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00 0000            00         X
+X  00 0000            00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  00 0000          00           X
+X  00 0000          00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(6, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X 000000            00           X
+X 000000            00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X 000000           00            X
+X 000000           00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X 000000             00          X
+X 000000             00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X 000000              00         X
+X 000000              00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(2, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X000000               00         X
+X000000               00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X000000             00           X
+X000000             00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X000000            00            X
+X000000            00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X000000              00          X
+X000000              00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(1, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  000000            00          X
+X  000000            00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X  000000          00            X
+X  000000          00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(3, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X    000000        00            X
+X    000000        00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X    000000          00          X
+X    000000          00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X    000000           00         X
+X    000000           00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X    000000         00           X
+X    000000         00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(5, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X      000000       00           X
+X      000000       00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X      000000      00            X
+X      000000      00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X      000000        00          X
+X      000000        00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X      000000         00         X
+X      000000         00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(7, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X        000000       00         X
+X        000000       00         X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXX      0000  X     X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXX   00X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(22, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X        000000     00           X
+X        000000     00           X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXX    0000    X     X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXX 00  X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(20, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X        000000    00            X
+X        000000    00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(19, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X        000000      00          X
+X        000000      00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(9, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X          000000    00          X
+X          000000    00          X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXX     0000   X     X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXX  00 X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(21, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X          000000  00            X
+X          000000  00            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+(11, 7)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                            XX  X
+X                          X XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X        XX  XX  XX  XX  XX  XX  X
+X                                X
+X                                X
+X            00000000            X
+X            00000000            X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXX   0000     X     X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXX00   X      X
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXX    XXXXXXXXXXXXXXXXXX     XX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

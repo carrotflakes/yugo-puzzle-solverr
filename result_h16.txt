@@ -1,0 +1,376 @@
+Time: 34.674158062s
+Found solution:
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        00            X
+X    11  00      11 11XX
+X    11  XX      11 11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+Moves (21):
+(17, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        00            X
+X    11  00    11   11XX
+X    11  XX    11   11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(15, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        00            X
+X    11  00  11     11XX
+X    11  XX  11     11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(13, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        00            X
+X    11  0011       11XX
+X    11  XX11       11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(9, 12)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X          00          X
+X          00          X
+X    11    11       11XX
+X    11  XX11       11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(11, 11)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X    11    1100     11XX
+X    11  XX1100     11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(11, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        11            X
+X    11  11  00     11XX
+X    11  XX  00     11XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(20, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        11            X
+X    11  11  00   11  XX
+X    11  XX  00   11  XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(18, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        11            X
+X    11  11  00 11    XX
+X    11  XX  00 11    XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(16, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X        11            X
+X    11  11 0011      XX
+X    11  XX 0011      XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(9, 12)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X          11          X
+X          11          X
+X    11     0011      XX
+X    11  XX 0011      XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(12, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X          11          X
+X          11          X
+X         00           X
+X    11   00  11      XX
+X    11  XX   11      XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(14, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X          11          X
+X          11          X
+X         00           X
+X    11   0011        XX
+X    11  XX 11        XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(11, 10)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X        11            X
+X        11            X
+X         00           X
+X    11   0011        XX
+X    11  XX 11        XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(10, 12)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X                      X
+X           00         X
+X        11 00         X
+X    11  11 11        XX
+X    11  XX 11        XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(12, 11)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X                      X
+X         00           X
+X         00           X
+X        11            X
+X    11  11 11        XX
+X    11  XX 11        XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(9, 12)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X         00           X
+X         00           X
+X          11          X
+X          11          X
+X    11     11        XX
+X    11  XX 11        XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(5, 13)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X                      X
+X         00           X
+X         00           X
+X          11          X
+X          11          X
+X      11   11        XX
+X      11XX 11        XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(11, 11)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X         00           X
+X         00           X
+X        11            X
+X        11            X
+X         11           X
+X      11 11          XX
+X      11XX           XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(10, 8)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X                      X
+X       00             X
+X       00             X
+X        11            X
+X        11            X
+X         11           X
+X      11 11          XX
+X      11XX           XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(9, 10)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X                      X
+X       00             X
+X       00             X
+X      11              X
+X      11              X
+X       11             X
+X       11             X
+X      11             XX
+X      11XX           XX
+XXXXXXXXXXXXXXXXXXXXXXXX
+(7, 9)
+XXXXXXXXXXXXXXXXXXXXXXXX
+X                      X
+X        000000        X
+X        000000        X
+X        00XX00        X
+X        00XX00        X
+X       00             X
+X       00             X
+X        11            X
+X        11            X
+X         11           X
+X         11           X
+X        11            X
+X        11           XX
+X        XX           XX
+XXXXXXXXXXXXXXXXXXXXXXXX

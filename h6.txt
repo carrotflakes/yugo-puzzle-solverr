@@ -1,0 +1,15 @@
+14
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                              X
+X                              X
+X                              X
+X                              X
+XXX00XX    00                  X
+XXX00XX    00                  X
+XXXXXXX    XX                  X
+XXXXXXX    XX                  X
+XXXXXXX        11  1122  22    X
+XXXXXXX        11  1122  22XX  X
+XXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
